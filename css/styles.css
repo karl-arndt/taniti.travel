@@ -1,3 +1,7 @@
+header img {
+  max-width: 5%;
+}
+
 .topnav {
   background-color: darkgreen;
   overflow: hidden;
