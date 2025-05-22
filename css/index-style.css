@@ -5,3 +5,16 @@
 #hero p, h1 {
   text-align: center;
 }
+
+.row {
+  display: flex;
+  text-align: center;
+}
+
+#card-container .row {
+  padding: 15px
+}
+
+#card-container .row .img-container a img {
+  max-width: 100%;
+}
