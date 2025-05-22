@@ -25,10 +25,3 @@ header img {
   color: white;
 }
 
-#hero img {
-  max-width: 100%;
-}
-
-#hero p, h1 {
-  text-align: center;
-}
