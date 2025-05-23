@@ -16,6 +16,11 @@
   margin-left: 25%;
 }
 
+#card-container .row .img-container {
+  min-width: 33%;
+}
+
 #card-container .row .img-container a img {
   max-width: 100%;
+  min-height: 100%;
 }
