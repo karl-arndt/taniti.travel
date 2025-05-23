@@ -12,13 +12,13 @@
 }
 
 #card-container .row {
-  max-width: 60%;
-  margin-left: 20%;
+  max-width: 80%;
+  margin-left: 10%;
 }
 
 #card-container .row .img-container {
   min-width: 33%;
-  padding: 3px;
+  padding: 5px;
 }
 
 #card-container .row .img-container a img {
