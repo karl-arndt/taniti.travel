@@ -1,5 +1,6 @@
 #container {
   display: flex;
+  margin-top: 2%;
 }
 
 #text-container img {
@@ -23,7 +24,12 @@
 
 
 label, input, textarea {
-  margin-left: 50%;
+  margin-left: 60%;
   font-size: 20px;
+  padding-bottom: 2%;
 }
+
+
+
+
 
