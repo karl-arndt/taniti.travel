@@ -21,3 +21,9 @@
   text-shadow: 2px 2px 2px black;
 }
 
+
+label, input, textarea {
+  margin-left: 50%;
+  font-size: 20px;
+}
+
