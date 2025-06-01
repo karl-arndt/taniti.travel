@@ -11,7 +11,8 @@ header img {
   float: left;
   color: white;
   text-align: center;
-  padding: 14px 40px;
+  padding: 14px 0px;
+  width: 12.5%;
   text-decoration: none;
   font-size: 18px;
 }
