@@ -1,0 +1,18 @@
+#card-container {
+  width: 30%;
+  margin-left: 35%;
+}
+
+h3 {
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  color: white;
+  background-color: darkgreen;
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
