@@ -1,0 +1,14 @@
+#container {
+  display: flex;
+  width: 80%;
+  margin-left: 10%;
+}
+
+#container .card {
+  width: 25%;
+  margin: 1%;
+  padding: 3%;
+  height: 40em;
+  border: solid plum;
+  background-color: antiquewhite;
+}
