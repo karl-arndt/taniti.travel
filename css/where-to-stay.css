@@ -1,0 +1,10 @@
+#map {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 3%;
+}
+
+#map img {
+  width: 100%;
+  border-radius: 10%;
+}
